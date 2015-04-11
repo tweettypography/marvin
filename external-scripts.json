@@ -1,13 +1,11 @@
-[
-  "hubot-diagnostics",
-  "hubot-help",
-  "hubot-heroku-keepalive",
-  "hubot-google-images",
-  "hubot-google-translate",
-  "hubot-maps",
-  "hubot-redis-brain",
-  "hubot-shipit",
-  "hubot-youtube",
-  "hubot-victory",
-  "hubot-fliptable"
-]
+{
+  "hubot-diagnostics": "*",
+  "hubot-help": "*",
+  "hubot-heroku-keepalive": "*",
+  "hubot-google-images": "*",
+  "hubot-maps": "*",
+  "hubot-redis-brain": "*",
+  "hubot-shipit": "*",
+  "hubot-victory": "*",
+  "hubot-fliptable": "*"
+}
