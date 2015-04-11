@@ -2,18 +2,18 @@
 
 ## To-Do
 ### Normalize
-- [ ] "hubot-uber": "^1.0.1",
-- [ ] "hubot-reaction": "0.0.6",
-- [ ] "hubot-plusplus": "^1.1.5",
-- [ ] "hubot-victory": "^1.2.0",
+- [ ] hubot-uber
+- [ ] hubot-reaction
+- [ ] hubot-plusplus
+- [ ] hubot-victory
 
 ### Integrate / Normalize
-- [ ] "hubot-auth": "^1.2.0",
-- [ ] "hubot-codinglove": "^0.2.4",
-- [ ] "hubot-scripts": "^2.5.16",
-- [ ] "hubot-cron-json": "^0.1.1",
-- [ ] "hubot-group-alias": "^1.5.4",
-- [ ] "hubot-team": "^2.0.0",
+- [ ] hubot-auth
+- [ ] hubot-codinglove
+- [ ] hubot-scripts
+- [ ] hubot-cron-json
+- [ ] hubot-group-alias
+- [ ] hubot-team
 
 ### Write
 - [ ] Dynamic status update reminders using fluid `hubot-team` or `group-alias` groupings for people late to report
