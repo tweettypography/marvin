@@ -620,7 +620,7 @@ var cia = {
 			} else {
 
 				if (item === "HEL-ZXT.93.ZARF.1") {
-					engine.update("The folloing message appears on the monitor: This is the United States Devense Department's top secret account for eapons development and radar resistant airrcraft data. All information is classified.")
+					engine.update("The folloing message appears on the monitor: This is the United States Devense Department's top secret account for weapons development and radar resistant airrcraft data. All information is classified.")
 				} else {
 					if (cia.player.g = 0) {
 						cia.player.g = 2;
@@ -1013,7 +1013,7 @@ var cia = {
 	},{
 		num: 15,
 		key: "letter",
-		look: "This is apparently a telephone  bill that has been paid and is being sent to the telephone company.",
+		look: "This is apparently a telephone bill that has been paid and is being sent to the telephone company.",
 		room: 3,
 		link: 0,
 		take_val: 10,
